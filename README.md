@@ -6,9 +6,7 @@ Para utilizar express-expeditious, sigue los siguientes pasos:
 
     Instala el paquete desde npm usando el siguiente comando:
 
-bash
-
-npm install express-expeditious
+    npm install express-expeditious
 
     Importa la función getExpeditiousCache en tu archivo:
 
