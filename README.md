@@ -1,3 +1,5 @@
+# USO
+
 Instalación
 
 Para utilizar express-expeditious, sigue los siguientes pasos:
